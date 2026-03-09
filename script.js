@@ -1,4 +1,4 @@
 function showMessage(){
-    document.getElementById("message").innerText="Hello! Welcome to my website.";
+    document.getElementById("message").innerText="Hello! Welcome";
     document.body.style.backgroundColor="lightgreen";
 }
