@@ -1,3 +1,3 @@
 function showMessage(){
-    alert("Hello! You clicked the button.");
+    document.getElementById("message").innerText="Hello! Welcome to my website.";
 }
